@@ -1,0 +1,2 @@
+- Create react app
+- Install tailwind
